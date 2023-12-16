@@ -1,8 +1,9 @@
 # Company Employee Analysis
+This project involves a comprehensive analysis of a company's employee data to uncover insights into workforce composition, compensation structures, and operational efficiency. 
 Compilation of SQL - Tableau integration projects for Data Analytics, Business Intelligence and Data Visualizations.
 *See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/jicuomu.de/viz/employeeanalysis_17011747030930/1_1)**<br />
 ## Database, Database Tool and Visualization Tool
-+ MySQL
++ SQL
 + MySQL Workbench
 + Tableau Public
 ## Dataset
@@ -37,7 +38,17 @@ Compilation of SQL - Tableau integration projects for Data Analytics, Business I
 
 <img width="248" alt="image" src="https://github.com/Tikii0617/SQL-practice/blob/main/task4.png">
 
+  ### Key Insights from Tableau Dashboard - Employee Analysis
+
   
- 
+- Gender Imbalance in Workforce (1990-2000): The number of female employees was consistently lower than male employees throughout the decade, suggesting potential issues in hiring practices and career progression for women.
+
+- Widening Salary Discrepancies: Since 1993, an increasing gap in average annual salaries between genders, pointing to a long-standing issue with salary equity.
+
+- Managerial Gender Disparity: Fluctuating representation in managerial roles, with female managers outnumbering male managers only in 1990 and 2000, indicating variable gender representation in leadership over time.
+
+- Gender Pay Gap: A consistent trend across all departments showing higher average salaries for male employees compared to female employees, highlighting a significant gender pay gap.
+
+
 
 
