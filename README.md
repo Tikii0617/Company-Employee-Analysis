@@ -1,7 +1,10 @@
 # Company Employee Analysis
 This project involves a comprehensive analysis of a company's employee data to uncover insights into workforce composition, compensation structures, and operational efficiency. 
 Compilation of SQL - Tableau integration projects for Data Analytics, Business Intelligence and Data Visualizations.
-*See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/jicuomu.de/viz/employeeanalysis_17011747030930/1_1)**<br />
+*See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/jicuomu.de/viz/CompanyEmployeeAnalysis_17029781315360/CompanyEmployeeAnalysis)**<br />
+
+<img width="500" alt="image" src="https://github.com/Tikii0617/Company-Employee-Analysis/blob/main/Tableau%20Dashboard.png">
+
 ## Database, Database Tool and Visualization Tool
 + SQL
 + MySQL Workbench
